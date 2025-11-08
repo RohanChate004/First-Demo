@@ -1,1 +1,5 @@
-# Tic-Tac-Toe-Game
+# First Demo
+
+This is my first Git Repository
+<br>
+Author - Rohan Chate
